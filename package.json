@@ -1,0 +1,12 @@
+{
+  "name": "chat-server",
+  "version": "1.0.0",
+  "main": "server.js",
+  "dependencies": {
+    "dotenv": "^17.4.0",
+    "ws": "^8.0.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
